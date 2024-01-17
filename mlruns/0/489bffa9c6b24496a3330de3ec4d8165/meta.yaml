@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/489bffa9c6b24496a3330de3ec4d8165/artifacts
+deleted_time: 1700852127690
+end_time: 1700851990761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 489bffa9c6b24496a3330de3ec4d8165
+run_name: luxuriant-newt-438
+run_uuid: 489bffa9c6b24496a3330de3ec4d8165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700851982850
+status: 4
+tags: []
+user_id: SameerAhamed

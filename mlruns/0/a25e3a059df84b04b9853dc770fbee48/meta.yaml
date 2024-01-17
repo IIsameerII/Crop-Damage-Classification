@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/a25e3a059df84b04b9853dc770fbee48/artifacts
+deleted_time: 1700891396367
+end_time: 1700891123617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a25e3a059df84b04b9853dc770fbee48
+run_name: fortunate-shoat-263
+run_uuid: a25e3a059df84b04b9853dc770fbee48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700890144453
+status: 3
+tags: []
+user_id: SameerAhamed

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/bfebd5da32d9480287911f323e0fb24f/artifacts
+deleted_time: 1701115768411
+end_time: 1701115639930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bfebd5da32d9480287911f323e0fb24f
+run_name: unleashed-sponge-929
+run_uuid: bfebd5da32d9480287911f323e0fb24f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701115639877
+status: 4
+tags: []
+user_id: SameerAhamed

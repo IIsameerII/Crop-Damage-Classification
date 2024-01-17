@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/6ec36d9b801545fcbd5026bb8a1c7edf/artifacts
+deleted_time: 1700919972036
+end_time: 1700896769356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6ec36d9b801545fcbd5026bb8a1c7edf
+run_name: fearless-mule-598
+run_uuid: 6ec36d9b801545fcbd5026bb8a1c7edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700891475282
+status: 3
+tags: []
+user_id: SameerAhamed

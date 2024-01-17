@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/9780c421fadd4c3e9d735962dffb8daf/artifacts
+deleted_time: 1700957449777
+end_time: 1700957422205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9780c421fadd4c3e9d735962dffb8daf
+run_name: dapper-sponge-409
+run_uuid: 9780c421fadd4c3e9d735962dffb8daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700957422161
+status: 4
+tags: []
+user_id: SameerAhamed

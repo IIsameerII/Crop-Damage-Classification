@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/224b11bd3c3f40499b076e52ebd09c10/artifacts
+deleted_time: 1700871738795
+end_time: 1700871078267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 224b11bd3c3f40499b076e52ebd09c10
+run_name: capricious-skunk-607
+run_uuid: 224b11bd3c3f40499b076e52ebd09c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700869115299
+status: 4
+tags: []
+user_id: SameerAhamed

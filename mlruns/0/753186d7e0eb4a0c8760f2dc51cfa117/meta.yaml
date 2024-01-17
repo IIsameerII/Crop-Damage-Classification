@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/753186d7e0eb4a0c8760f2dc51cfa117/artifacts
+deleted_time: 1701225451296
+end_time: 1701225255940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 753186d7e0eb4a0c8760f2dc51cfa117
+run_name: bouncy-squirrel-598
+run_uuid: 753186d7e0eb4a0c8760f2dc51cfa117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701225079929
+status: 3
+tags: []
+user_id: SameerAhamed

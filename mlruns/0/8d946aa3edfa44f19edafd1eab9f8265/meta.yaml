@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/8d946aa3edfa44f19edafd1eab9f8265/artifacts
+deleted_time: 1700954104231
+end_time: 1700953897475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8d946aa3edfa44f19edafd1eab9f8265
+run_name: sedate-lamb-821
+run_uuid: 8d946aa3edfa44f19edafd1eab9f8265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700953897452
+status: 4
+tags: []
+user_id: SameerAhamed

@@ -1,0 +1,8 @@
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    RandomRotation(degrees=[-30.0, 30.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=[256, 256], interpolation=bicubic, max_size=None, antialias=warn)
+    ToTensor()
+    Normalize(mean=tensor([0.4850, 0.4560, 0.4060]), std=tensor([0.2290, 0.2240, 0.2250]))
+)

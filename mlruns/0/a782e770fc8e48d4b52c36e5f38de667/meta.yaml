@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/a782e770fc8e48d4b52c36e5f38de667/artifacts
+deleted_time: 1701126826532
+end_time: 1701122568677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a782e770fc8e48d4b52c36e5f38de667
+run_name: amusing-hog-505
+run_uuid: a782e770fc8e48d4b52c36e5f38de667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701120114021
+status: 4
+tags: []
+user_id: SameerAhamed

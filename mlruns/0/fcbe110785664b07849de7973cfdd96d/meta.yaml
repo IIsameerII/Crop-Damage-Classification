@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/fcbe110785664b07849de7973cfdd96d/artifacts
+deleted_time: 1700890193833
+end_time: 1700889819540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fcbe110785664b07849de7973cfdd96d
+run_name: stylish-flea-446
+run_uuid: fcbe110785664b07849de7973cfdd96d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700889819452
+status: 4
+tags: []
+user_id: SameerAhamed

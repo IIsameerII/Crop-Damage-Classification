@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/10dba9bcfd154f84aa1cf2270fea1650/artifacts
+deleted_time: 1701115768411
+end_time: 1701115620221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 10dba9bcfd154f84aa1cf2270fea1650
+run_name: glamorous-shrimp-125
+run_uuid: 10dba9bcfd154f84aa1cf2270fea1650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701115620166
+status: 4
+tags: []
+user_id: SameerAhamed

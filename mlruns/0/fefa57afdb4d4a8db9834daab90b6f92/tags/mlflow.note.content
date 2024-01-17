@@ -1,0 +1,1 @@
+In this experiment, I added more epochs to check how the learning rate progresses. Also, I wanted the experiment to run for 30 epochs, but it failed. Experiment 7 is the best experiment we have for now.

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/7ddcb0856bee4970bb3ef1966a434f68/artifacts
+deleted_time: 1700957246388
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7ddcb0856bee4970bb3ef1966a434f68
+run_name: gregarious-seal-369
+run_uuid: 7ddcb0856bee4970bb3ef1966a434f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700954460811
+status: 1
+tags: []
+user_id: SameerAhamed

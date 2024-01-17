@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/9a939dacb05647e28a7468e88ae57b75/artifacts
+deleted_time: 1701028469877
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9a939dacb05647e28a7468e88ae57b75
+run_name: flawless-quail-643
+run_uuid: 9a939dacb05647e28a7468e88ae57b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701024625999
+status: 1
+tags: []
+user_id: SameerAhamed

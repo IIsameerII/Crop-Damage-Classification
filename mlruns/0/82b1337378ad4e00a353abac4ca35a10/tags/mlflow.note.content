@@ -1,0 +1,14 @@
+There was an issue in this run. I forgot to consider the logic where I needed to write the best test loss in best test loss so that the model can then compare it in the nest epoch. But this is now fixed and will run better next time.
+
+```
+if test_loss <= best_test_loss:
+
+              torch.save(model, model_save_path+'best_'+str(exp_num)+'.pth')
+
+              best_test_loss = test_loss
+
+              best_train_loss = train_loss
+
+              best_epoch = epoch  
+```
+

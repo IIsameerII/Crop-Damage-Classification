@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/d10709292130420e9737e9b8d853871e/artifacts
+deleted_time: 1700957246385
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d10709292130420e9737e9b8d853871e
+run_name: gifted-wren-707
+run_uuid: d10709292130420e9737e9b8d853871e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700956117989
+status: 1
+tags: []
+user_id: SameerAhamed

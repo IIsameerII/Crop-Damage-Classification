@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/9d1f34b887f146a391bb7cf29028e235/artifacts
+deleted_time: 1701120084764
+end_time: 1701118361015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9d1f34b887f146a391bb7cf29028e235
+run_name: welcoming-mare-629
+run_uuid: 9d1f34b887f146a391bb7cf29028e235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701115926401
+status: 4
+tags: []
+user_id: SameerAhamed

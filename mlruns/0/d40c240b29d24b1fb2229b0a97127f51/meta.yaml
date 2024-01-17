@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/d40c240b29d24b1fb2229b0a97127f51/artifacts
+end_time: 1703039064081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d40c240b29d24b1fb2229b0a97127f51
+run_name: peaceful-dog-974
+run_uuid: d40c240b29d24b1fb2229b0a97127f51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703036578439
+status: 3
+tags: []
+user_id: SameerAhamed

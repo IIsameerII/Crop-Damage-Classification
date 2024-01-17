@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/b6f37c46dfbf4aa9983eff709c4a94cb/artifacts
+deleted_time: 1701115801724
+end_time: 1701115796505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b6f37c46dfbf4aa9983eff709c4a94cb
+run_name: powerful-snake-1
+run_uuid: b6f37c46dfbf4aa9983eff709c4a94cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701115719958
+status: 3
+tags: []
+user_id: SameerAhamed

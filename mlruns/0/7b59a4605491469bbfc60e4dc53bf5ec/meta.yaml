@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/7b59a4605491469bbfc60e4dc53bf5ec/artifacts
+end_time: 1701057150209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b59a4605491469bbfc60e4dc53bf5ec
+run_name: batch-size 16
+run_uuid: 7b59a4605491469bbfc60e4dc53bf5ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701016991339
+status: 3
+tags: []
+user_id: SameerAhamed

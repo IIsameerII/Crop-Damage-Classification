@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/SameerAhamed/Downloads/cgiar-crop-damage-classification-challenge/mlruns/0/9060b05c2eb5412fa71b2aed81c44021/artifacts
+deleted_time: 1700874499417
+end_time: 1700873347758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9060b05c2eb5412fa71b2aed81c44021
+run_name: resilient-shrimp-39
+run_uuid: 9060b05c2eb5412fa71b2aed81c44021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700871403081
+status: 4
+tags: []
+user_id: SameerAhamed
