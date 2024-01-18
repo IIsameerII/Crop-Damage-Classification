@@ -10,7 +10,7 @@ st.write('labeled_images')
 
 
 with st.container():
-    st.header('Try our solution for prediction')
+    st.header('Go to another page')
     col1, col2 = st.columns(2)
     with col1:
         if st.button('Home'):
