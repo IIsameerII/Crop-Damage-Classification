@@ -27,13 +27,12 @@ with st.container():
     col1, col2 = st.columns(2)
     with col1:
         if st.button('Use Labeled Images'):
-            st.switch_page(r"pages\use_labeled_images.py")
+            st.switch_page(r"pages/use_labeled_images.py")
     with col2:
         if st.button('Use Custom Images'):
             st.switch_page(r"pages/use_own_images.py")
 
-        
-
+    
 
 st.markdown('<div style="text-align: justify;"></div>', unsafe_allow_html=True)
 
