@@ -1,4 +1,7 @@
 import streamlit as st
+from pathlib import Path
+
+st.set_page_config(page_title='Crop Damage Classification',initial_sidebar_state='collapsed')
 
 st.title('Crop Damage Classification')
 
@@ -23,13 +26,13 @@ st.markdown('<div style="text-align: justify;">This project represents a synergi
 st.write('')
 st.write('')
 with st.container():
-    st.header('Try our solution for prediction')
+    st.subheader('Try our solution for prediction')
     col1, col2 = st.columns(2)
     with col1:
-        if st.button('Use Labeled Images'):
+        if st.button('Use Labeled Images',use_container_width = True):
             st.switch_page(r"pages/use_labeled_images.py")
     with col2:
-        if st.button('Use Custom Images'):
+        if st.button('Use Custom Images',use_container_width = True):
             st.switch_page(r"pages/use_own_images.py")
 
     
