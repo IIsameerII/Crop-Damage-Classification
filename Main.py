@@ -1,7 +1,19 @@
+
+# Now you can import your_script (or any other module in that directory)
+import pages.utils.utils_streamlit as utils_st
+
 import streamlit as st
 from pathlib import Path
+import torch
 
 st.set_page_config(page_title='Crop Damage Classification',initial_sidebar_state='collapsed')
+
+
+@st.cache_resource
+def load_crop_damage_model():
+    model=utils_st.load_model()
+    return model
+
 
 st.title('Crop Damage Classification')
 
@@ -25,7 +37,7 @@ st.write('')
 st.markdown('<div style="text-align: justify;">This project represents a synergistic approach where technology meets agriculture to create a sustainable, efficient, and farmer-friendly future. It not only aims to streamline insurance processes but also stands as a testament to the potential of technology in transforming agricultural practices for the betterment of farmers, the industry, and the environment.</div>', unsafe_allow_html=True)
 st.write('')
 st.write('')
-with st.container():
+with st.container(border=True):
     st.subheader('Try our solution for prediction')
     col1, col2 = st.columns(2)
     with col1:
@@ -37,5 +49,5 @@ with st.container():
 
     
 
-st.markdown('<div style="text-align: justify;"></div>', unsafe_allow_html=True)
+st.markdown('<div style="text-align: justify;"></div>', unsafe_allow_html=True) # Template Markdown
 
