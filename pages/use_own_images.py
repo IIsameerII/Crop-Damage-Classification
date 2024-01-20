@@ -1,12 +1,12 @@
 import streamlit as st
-import pages.utils.utils_streamlit as utils_st
+
 import torch
 
 st.header('Use Own Image for Prediciton')
 
 @st.cache_resource
 def load_crop_damage_model():
-    model=utils_st.load_model()
+    model = torch.load(r'models\best_5.pt')
     return model
 
 model = load_crop_damage_model()
