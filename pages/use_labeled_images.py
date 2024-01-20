@@ -1,15 +1,24 @@
 import streamlit as st
-import pages.utils.utils_streamlit as utils_st
+from torchvision import datasets
 import torch
 
 st.header('Use Labeled Images for Prediciton')
 
 @st.cache_resource
 def load_crop_damage_model():
-    model=utils_st.load_model()
+    model = torch.load(r'models\best_5.pt')
     return model
 
+@st.cache_resource
+def create_dataset_valid(path):
+  valid_dataset = datasets.ImageFolder(path)
+  # Not transfroming here. It will be transformed when the image is fed
+  # to the prediciton function (single image). This was done to maintain consistency
+  return valid_dataset
+
 model = load_crop_damage_model()
+dataset = create_dataset_valid(r'labeled images')
+
 
 
 
