@@ -11,7 +11,7 @@ def load_crop_damage_model():
 
 model = load_crop_damage_model()
 
-c
+
 
 
 
