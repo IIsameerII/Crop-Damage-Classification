@@ -1,18 +1,11 @@
 
 # Now you can import your_script (or any other module in that directory)
-import pages.utils.utils_streamlit as utils_st
 
 import streamlit as st
 from pathlib import Path
 import torch
 
 st.set_page_config(page_title='Crop Damage Classification',initial_sidebar_state='collapsed')
-
-
-@st.cache_resource
-def load_crop_damage_model():
-    model=utils_st.load_model()
-    return model
 
 
 st.title('Crop Damage Classification')
