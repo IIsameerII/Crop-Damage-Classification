@@ -1,14 +1,20 @@
 import streamlit as st
-
 import torch
+import torchvision
+
+st.set_page_config(page_title='Crop Damage Classification',initial_sidebar_state='collapsed')
 
 st.header('Use Own Image for Prediciton')
 
 device = torch.device('cuda' if torch.cuda.is_available() else "cpu")
 @st.cache_resource
 def load_crop_damage_model():
+    device = torch.device('cuda' if torch.cuda.is_available() else "cpu")
+    class_names = ['Drought','Good (growth)','Nutrient Deficient','Weed','Disease\Pest\Wind']
+    automatic_transform = torchvision.models.EfficientNet_B0_Weights.DEFAULT.transforms()
     model = torch.load(r'models//best_5.pt',map_location=device)
-    return model
+    model.eval()
+    return model, automatic_transform, device, class_names
 
 model = load_crop_damage_model()
 

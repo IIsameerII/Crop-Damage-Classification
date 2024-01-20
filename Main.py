@@ -2,8 +2,6 @@
 # Now you can import your_script (or any other module in that directory)
 
 import streamlit as st
-from pathlib import Path
-import torch
 
 st.set_page_config(page_title='Crop Damage Classification',initial_sidebar_state='collapsed')
 
