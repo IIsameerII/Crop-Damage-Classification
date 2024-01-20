@@ -6,7 +6,7 @@ st.header('Use Labeled Images for Prediciton')
 
 @st.cache_resource
 def load_crop_damage_model():
-    model = torch.load(r'models\best_5.pt')
+    model = torch.load(r'models//best_5.pt')
     return model
 
 @st.cache_resource
