@@ -5,7 +5,7 @@ This repository contains the implementation of a machine-learning model for the 
 Model Training: Scripts for training the crop damage classification model.
 Data Preprocessing: Utilities for cleaning and preparing data for training and testing.
 Prediction: Code for predicting damage classification on new data samples.
-Evaluation: Scripts for evaluating model performance with metrics like accuracy, precision, recall, and F1-score.
+Evaluation: Scripts for evaluating model performance with loss.
 
 # Run Streamlit app on your local device
 1. Clone the repository:
