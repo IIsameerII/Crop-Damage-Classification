@@ -5,7 +5,7 @@ import torch
 
 st.set_page_config(page_title='Crop Damage Classification',initial_sidebar_state='collapsed')
 
-st.header('Use Labeled Images for Prediciton')
+st.header('Use Labeled Images for Prediction')
 
 
 @st.cache_resource
